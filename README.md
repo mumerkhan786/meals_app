@@ -120,9 +120,6 @@ lib/
     </li>
 </ol>
 
-<h2>Screenshots</h2>
-<p>Include screenshots of your app here for a more visual overview.</p>
-
 <h2>Technologies Used</h2>
 <ul>
     <li><strong>Flutter</strong> for the frontend</li>
